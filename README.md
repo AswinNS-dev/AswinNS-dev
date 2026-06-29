@@ -1,70 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EE6D6&height=220&section=header&text=Aswin%20NS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20GenAI%20%2F%20RAG%20Builder%20%7C%20Edge%20AI%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Aswin%20N%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20GenAI%20%2B%20Edge%20AI%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://github.com/AswinNS-dev">
-  <img src="https://komarev.com/ghpvc/?username=AswinNS-dev&style=for-the-badge&color=2EE6D6&label=PROFILE+VIEWS" />
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=B.E.+AI+%26+Data+Science+%40+Sri+Eshwar+College;Building+GenAI+%2B+RAG+Pipelines;Edge+AI+%2F+TinyML+Tinkerer;Hackathon+Enthusiast+%F0%9F%9A%80;VALORANT+in+my+downtime+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%20Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAswinNS-dev&color=2EE6D6&logo=github" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2EE6D6&center=true&vCenter=true&width=720&lines=Building+GenAI+%2B+RAG+pipelines+%F0%9F%A4%96;Multi-Agent+Orchestration+with+CrewAI+%F0%9F%9A%80;Shipping+Edge+AI+%2F+TinyML+on+real+hardware+%E2%9A%A1;Currently+hacking+on+SIH+2025+%26+Tata+InnoVent-27+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C9FF?style=for-the-badge&logo=statuscake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Batch-2024--2028-2C5364?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20Edge%20AI-0F2027?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## 🧬 About Me
+## 👋 About Me
 
-```yaml
-name: Aswin NS
-role: B.E AI & Data Science Student
-batch: 2024 - 2028
-college: Sri Eshwar College of Engineering
-currently:
-  - 💼 Data Engineering Intern @ Codeboosters Tech
-  - 🧠 Building Arivium — an AI career-readiness platform for engineering students
-  - 🛰️  Prototyping edge-AI sensor nodes for SIH 2025 (broken LV conductor detection)
-  - 🦾  Designing a PPE / operator-safety vision system for Tata InnoVent-27
-focus: [GenAI, RAG Pipelines, Multi-Agent Systems, Edge AI / TinyML, Data Engineering]
-achievement: 🏆 Runner-up — Gateway 2025 Hackathon, PSG Institute of Technology
-off_duty: [VALORANT 🎯, ARK: Survival Evolved 🦖]
-reach_me: aswin.ns2024aids@sece.ac.in
+```python
+class Aswin:
+    def __init__(self):
+        self.role        = "B.E. AI & Data Science Student"
+        self.college     = "Sri Eshwar College of Engineering"
+        self.internship  = "Data Engineering @ Codeboosters Tech"
+        self.passions    = ["GenAI", "RAG Pipelines", "Edge AI / TinyML", "Full-Stack Dev"]
+        self.currently   = ["Building Arivium 🚀", "Hacking on SIH 25063", "Prepping Tata InnoVent-27"]
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent together 🤝")
+
+me = Aswin()
+me.say_hi()
 ```
+
+- 🎓 B.E. in **AI & Data Science** (2024–2028), Sri Eshwar College of Engineering
+- 💼 Data Engineering Intern @ **Codeboosters Tech**
+- 🧠 Deep into **GenAI, multi-agent systems, and RAG pipelines**
+- ⚡ Exploring **Edge AI / TinyML** for real-world sensor-driven systems
+- 🏆 Hackathon runner-up — **Gateway 2025**, PSG Institute of Technology
+- 🎮 When I'm not coding: **VALORANT** ranked grind & surviving **ARK: Survival Evolved**
 
 <br/>
 
 ## 🛠️ Tech Arsenal
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Languages**
+**Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css&theme=dark"/>
 
-**AI / GenAI / ML**
+**AI / ML / GenAI**
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-7C4DFF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-2C2C2C?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
 
-</td>
-<td valign="top" width="50%">
-
-**Web & Frameworks**
+**Data Engineering**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,fastapi,spring,nodejs,tailwind,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-**Data, Infra & Tools**
+**Full-Stack & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,git,github,vscode,idea,postman&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-00C9FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+**Edge AI**
+<br/>
+<img src="https://img.shields.io/badge/TinyML-00C9FF?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRa%20Mesh-2C5364?style=for-the-badge&logo=zigbee&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -72,46 +92,50 @@ reach_me: aswin.ns2024aids@sece.ac.in
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI-Powered GitHub Assistant
-RAG-driven GitHub assistant that automates file deployment, repo analysis & README generation using Groq's Llama 3.3 70B. Shipped as a CLI package on PyPI.
-
-`Python` `FastAPI` `React` `LangChain` `Groq`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinNS-dev)
+### 🎯 Arivium
+**AI-powered career readiness platform**
+Resume parsing, skill-gap analysis & readiness certification for engineering students. End-to-end architecture with polished system design.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 AI Project Evaluation Suite
-Multi-agent evaluation system built on CrewAI orchestration with hybrid RAG (FAISS + ChromaDB), Snowflake audit storage, and Twilio alerts — wrapped in a custom dark dashboard.
-
-`CrewAI` `LangChain` `LlamaIndex` `Snowflake`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinNS-dev)
+### 🧪 AI Project Evaluator
+**Multi-agent orchestration with CrewAI**
+LangChain + LlamaIndex + Groq (Llama-3.3-70B) + Hybrid RAG (FAISS/ChromaDB) + Snowflake audit storage + Twilio alerts.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Arivium
-AI-driven career-readiness platform — resume parsing, skill-gap analysis, and readiness certification for engineering students.
-
-`GenAI` `RAG` `Full-Stack`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinNS-dev)
+### ⚡ SIH 25063 — Smart Grid Guardian
+**Broken LV overhead conductor detection**
+Pole-mounted smart sensor nodes, edge AI/TinyML, multi-sensor fusion, and LoRa mesh networking for real-time fault detection.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💊 ProdMaster
-Project management system with secure auth, task tracking, and real-time team collaboration.
+### 🛡️ Tata InnoVent-27 — AI at the Edge
+**Operator Safety & PPE Compliance**
+CCTV-based restricted-zone monitoring evolved into a real-time PPE compliance detection system at the edge.
 
-`TypeScript` `Full-Stack`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinNS-dev)
+### 🏥 Healthcare AI Agent
+**RAG-powered clinical assistant**
+Snowflake + ChromaDB + Groq/LangChain pipeline with a Gradio front-end for healthcare domain queries.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AGA — AI GitHub Assistant
+**Repo-aware RAG assistant**
+LangChain + Groq + FAISS + GitHub API, wrapped in a Gradio UI — submitted for Amazon ML Summer School.
 
 </td>
 </tr>
@@ -119,46 +143,58 @@ Project management system with secure auth, task tracking, and real-time team co
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🏆 Achievements & Certifications
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AswinNS-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6&icon_color=2EE6D6&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinNS-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=2EE6D6&fire=2EE6D6&currStreakLabel=2EE6D6" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinNS-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EE6D6" width="40%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinNS-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EE6D6&line=2EE6D6&point=ffffff" width="56%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AswinNS-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+- 🥈 **Runner-up**, Gateway 2025 Hackathon — PSG Institute of Technology
+- 📜 **MERN Full Stack Development** — AlgoTutor Academy Internship Certificate
+- 💼 **Data Engineering Internship** — Codeboosters Tech
 
 <br/>
 
-## 🏁 Coding Profiles
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Platform | Highlight |
-|:---:|:---:|
-| 🟧 **LeetCode** | 400+ solved · Max rating 1555 |
-| 🟫 **SkillRack** | 850+ solved · 147+ Bronzes |
-| 🟩 **HackerRank** | 3.8★ in Python |
+<img src="https://github-readme-stats.vercel.app/api?username=AswinNS-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinNS-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinNS-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinNS-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=ffffff" width="49%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AswinNS-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 🧩 Competitive Programming
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aswin-ns](https://www.linkedin.com/in/aswin-n-s-5426a2333/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswin.ns2024aids@sece.ac.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/AswinSECE/))
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/SkillRack-Profile-2C5364?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6D6,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aswin.ns2024aids@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AswinNS-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AswinNS-dev&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=120&section=footer"/>
+</div>
