@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/B.E.%20AI%20%26%20Data%20Science-Sri%20Eshwar%20College%20of%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/CGPA-7.67-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍-Tiruchengode,%20Tamil%20Nadu,%20India-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍-Tiruppur,%20Tamil%20Nadu,%20India-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 
 <br/><br/>
 
