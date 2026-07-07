@@ -265,12 +265,12 @@ Built CRUD-based web applications during a hands-on MERN stack training program.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AswinNS-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-jet-pi-82.vercel.app/api?username=AswinNS-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=AswinNS-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinNS-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-jet-pi-82.vercel.app/api/top-langs/?username=AswinNS-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -280,7 +280,7 @@ Built CRUD-based web applications during a hands-on MERN stack training program.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AswinNS-dev&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy-beryl-tau.vercel.app/?username=AswinNS-dev&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"/>
 
 </div>
 
