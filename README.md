@@ -231,7 +231,7 @@ Built CRUD-based web applications during a hands-on MERN stack training program.
 
 **Oracle**
 <br/>
-<img src="https://img.shields.io/badge/Java-Oracle%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://drive.google.com/file/d/1P562gB3GBLpaoLgIc-cqJiumav-kyqVE/view?usp=sharing"/>
 
 **Udemy**
 <br/>
@@ -330,10 +330,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:aswin.ns2024aids@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aswin-ns"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aswin88709@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aswin-n-s-5426a2333/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AswinNS-dev"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://myprotfolio-public.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
