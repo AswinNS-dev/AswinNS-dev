@@ -10,12 +10,12 @@
 
 <img src="https://img.shields.io/badge/B.E.%20AI%20%26%20Data%20Science-Sri%20Eshwar%20College%20of%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/CGPA-7.67-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍-Tiruppur,%20Tamil%20Nadu,%20India-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍-Tiruchengode,%20Tamil%20Nadu,%20India-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aswin-ns"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://myprotfolio-public.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aswin-n-s-5426a2333/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aswin.ns2024aids@sece.ac.in"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/AswinNS-dev"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -231,15 +231,15 @@ Built CRUD-based web applications during a hands-on MERN stack training program.
 
 **Oracle**
 <br/>
-<img src="https://drive.google.com/file/d/1P562gB3GBLpaoLgIc-cqJiumav-kyqVE/view?usp=sharing"/>
+<a href="https://drive.google.com/file/d/1P562gB3GBLpaoLgIc-cqJiumav-kyqVE/view?usp=sharing"><img src="https://img.shields.io/badge/Java-Oracle%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 
 **Udemy**
 <br/>
-<img src="https://img.shields.io/badge/Python-Udemy%20Certified-8B5CF6?style=flat-square&logo=udemy&logoColor=white"/>
+<a href="https://drive.google.com/file/d/159uiOKOmTrtqv_HM4EcnbQp6xZkrq8_Q/view?usp=drive_link"><img src="https://img.shields.io/badge/Python-Udemy%20Certified-8B5CF6?style=flat-square&logo=udemy&logoColor=white"/></a>
 
 **AlgoTutor**
 <br/>
-<img src="https://img.shields.io/badge/MERN%20Stack-AlgoTutor%20Certified-6D28D9?style=flat-square&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1EbigfHtinIEr8xH6qJx2IA_pVZhdNgKf/view?usp=drive_link"><img src="https://img.shields.io/badge/MERN%20Stack-AlgoTutor%20Certified-6D28D9?style=flat-square&logoColor=white"/></a>
 
 </div>
 
@@ -266,10 +266,6 @@ Built CRUD-based web applications during a hands-on MERN stack training program.
 <div align="center">
 
 <img src="https://github-readme-stats-jet-pi-82.vercel.app/api?username=AswinNS-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=AswinNS-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
 <img src="https://github-readme-stats-jet-pi-82.vercel.app/api/top-langs/?username=AswinNS-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
@@ -330,10 +326,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:aswin88709@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aswin.ns2024aids@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aswin-n-s-5426a2333/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AswinNS-dev"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://myprotfolio-public.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://myprotfolio-public.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
