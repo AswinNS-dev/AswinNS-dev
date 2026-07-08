@@ -16,7 +16,7 @@
 
 <a href="https://myprotfolio-public.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aswin-n-s-5426a2333/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aswin.ns2024aids@sece.ac.in"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aswin88709@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/AswinNS-dev"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -46,7 +46,7 @@ Currently interning in **Data Engineering at Codeboosters Tech**, where I work w
 🔭 Currently Building : SIH 25063 — TinyML + LoRa Mesh Smart Sensor Node for Grid Fault Detection
 🌱 Currently Exploring : Edge AI Inference, Multi-Sensor Fusion, Agentic RAG Architectures
 💼 Open To            : AI/ML Engineer · Full-Stack Developer · GenAI Engineer Roles (Internship / Entry-Level)
-📫 Reach Me At         : aswin.ns2024aids@sece.ac.in
+📫 Reach Me At         : aswin88709@gmail.com
 ```
 
 <br/>
